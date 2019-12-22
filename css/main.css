@@ -168,7 +168,7 @@ h3 + .main__article__paragraph:first-letter,
 .nav__list__item:after {
     color: rgba(255, 255, 255, 1);
 	content: '#';
-	padding: 0 0.2em;
+	padding: 0 0.3em;
 }
 .nav__list__item:last-child:after {
 	content: '';
