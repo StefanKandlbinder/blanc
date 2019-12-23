@@ -9,11 +9,6 @@ body *:before {
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
  	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
  	box-sizing: border-box;         /* Opera/IE 8+ */
-
- 	-webkit-transition: all 0.5s ease-out;
-    -moz-transition: all 0.5s ease-out;
-    -o-transition: all 0.5s ease-out;
-    transition: all 0.5s ease-out;
 }
 
 a,
